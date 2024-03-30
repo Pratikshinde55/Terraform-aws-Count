@@ -18,4 +18,13 @@ Create multiple EC2 instance and give dynamically name &amp; instance type using
 ![apply-output](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/4b4e0be7-bc4c-445d-8b86-9207aee4d47c)
 
 
+AWS console :---
+
+![Screenshot 2024-03-30 181743](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/4e9a0893-8e40-4fec-8921-1f7d149126ed)
+
+
+For each instance bellow security group created by terraform
+
+
+![Screenshot 2024-03-30 181902](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/5d9d8328-658c-425c-9c74-3e83f7f5d195)
 
