@@ -24,6 +24,9 @@ i  save my file using out keyword
 ![vari](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/751ad7b1-e91a-4f84-9f71-5acf83b0b048)
 
 
+         # terraform init
+         # terraform apply
+
 ![terra-apply](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/caa4ea39-d93b-4b7c-a8f4-fed66c6bde34)
 
 
