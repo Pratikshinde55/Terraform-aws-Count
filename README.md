@@ -15,6 +15,9 @@ i  save my file using out keyword
 
 ![provider- tf](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/9111dd17-6f1b-44d5-8369-91a6735d75ef)
 
+
+         # notepad main.tf 
+
 ![main tf](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/6299137c-9f52-4559-9d75-8359dbd13481)
 
 
