@@ -1,6 +1,12 @@
 # Terraform-aws-Count_dynamically
 Create multiple EC2 instance and give dynamically name &amp; instance type using terraform
 
+
+
+      # terraform.exe plan -out=mypsfile
+
+i  save my file using out keyword 
+
 ![files-tf](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/4d156206-a87a-4482-b39e-3c5f682fe4e7)
 
 
