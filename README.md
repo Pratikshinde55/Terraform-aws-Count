@@ -55,7 +55,8 @@ Locals: It defines some local values, such as admin name, owner, salary, and cur
 
 ⚡Step-3:⚡
 
-Now, 1st use terraform init & then terraform apply command entire setup is launched, i give true value output is welcome show during apply command run.
+Now, 1st use terraform init & then terraform apply command entire setup is launched, i give true value output is welcome show during apply command run. & current
+date and time show .
 
 
          # terraform init
