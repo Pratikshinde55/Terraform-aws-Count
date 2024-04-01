@@ -29,7 +29,7 @@ provider file for plugin and put credentials info .(aws provider plugin)
 
 ![provider- tf](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/9111dd17-6f1b-44d5-8369-91a6735d75ef)
 
-⚡Step-1:⚡
+⚡Step-2:⚡
 
 Here main.tf file for all code related to aws_instance Resource block.
 
@@ -38,13 +38,12 @@ Data Source for AMI: It fetches the latest Amazon Linux 2 AMI with a specific na
 EC2 Instance Resource: It defines an EC2 instance resource, using the AMI fetched in the previous step. It specifies the instance type, security group ID,
 and creates multiple instances using the count meta-argument.
 
-Variables:
+Variables: "names": A list of names for instances, "instanceType": A list of instance types, "sec-grpID": Security Group ID.
 
-names: A list of names for instances.
-instanceType: A list of instance types.
-sec-grpID: Security Group ID.
+Output: It outputs a message based on the value of the Give-true-false variable. If it's true, it outputs a welcome message; otherwise, it suggests trying
+again later.
 
-
+Locals: It defines some local values, such as admin name, owner, salary, and current time.
 
 
          # notepad main.tf 
