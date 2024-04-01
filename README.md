@@ -1,6 +1,10 @@
 # Terraform-aws-Count_dynamically
 Create multiple EC2 instance and give dynamically name &amp; instance type using terraform
 
+Count : 
+
+Count is Terraform meta-argument is used in resource block to specify that resource how many times run.
+
 
 
       # terraform.exe plan -out=mypsfile
