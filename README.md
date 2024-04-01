@@ -1,4 +1,4 @@
-# Terraform-aws-Count_dynamically
+# Terraform-aws-Count
 Create multiple EC2 instance and give dynamically name & instance type
 
 ⭐ "Multi-Instance AWS EC2 Deployment with Terraform"⭐
