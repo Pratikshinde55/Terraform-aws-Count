@@ -29,6 +29,10 @@ provider file for plugin and put credentials info .(aws provider plugin)
 
 ![provider- tf](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/9111dd17-6f1b-44d5-8369-91a6735d75ef)
 
+⚡Step-1:⚡
+
+Here main.tf file for all code related to Resource block
+
 
          # notepad main.tf 
 
