@@ -56,7 +56,7 @@ Locals: It defines some local values, such as admin name, owner, salary, and cur
 
 ![vari](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/751ad7b1-e91a-4f84-9f71-5acf83b0b048)
 
-In terraform 'varible' we can't use terraform function, Because of this "locals" is used.
+In terraform 'varible' we can't use terraform function, Because of this "locals" is used. (check main.tf file). Output block is required to run local value.
 
 max(): max function is used to retrieve maximum value .
 
