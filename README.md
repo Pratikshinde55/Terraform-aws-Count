@@ -15,7 +15,8 @@ Count is Terraform meta-argument is used in resource block to specify that resou
  It's special variable which define length of list of count. such as os[0] , os[1], os[2]......
 
 
-In this work i have created below files for my code , mypsfile is created by "-out" keyword which store all setup code in binary format.  " # terraform.exe plan -out=mypsfile "
+In this work i have created below files for my code , mypsfile is created by "-out" keyword which store all setup code in binary format.  
+" # terraform.exe plan -out=mypsfile "
 
 ![files-tf](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/4d156206-a87a-4482-b39e-3c5f682fe4e7)
 
