@@ -1,5 +1,8 @@
 # Terraform-aws-Count_dynamically
-Create multiple EC2 instance and give dynamically name &amp; instance type using terraform
+Create multiple EC2 instance and give dynamically name & instance type
+
+![terraform-count](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/9d4138a1-8f73-4b97-87b8-cd0049d47f16)
+
 
 🌟Count : 
 
