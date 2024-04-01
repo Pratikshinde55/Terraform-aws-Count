@@ -56,6 +56,15 @@ Locals: It defines some local values, such as admin name, owner, salary, and cur
 
 ![vari](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/751ad7b1-e91a-4f84-9f71-5acf83b0b048)
 
+In terraform 'varible' we can't use terraform function, Because of this "locals" is used.
+
+max(): max function is used to retrieve maximum value .
+
+formatdate(): It's is terraform function which give format for date.
+
+timestamp(): It's terraform function which run in real time and give real time.
+
+
 ⚡Step-3:⚡
 
 Now, 1st use terraform init & then terraform apply command entire setup is launched, i give true value output is welcome show during apply command run. & current
