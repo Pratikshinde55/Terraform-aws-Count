@@ -53,6 +53,10 @@ Locals: It defines some local values, such as admin name, owner, salary, and cur
 
 ![vari](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/751ad7b1-e91a-4f84-9f71-5acf83b0b048)
 
+⚡Step-3:⚡
+
+Now, 1st use terraform init & then terraform apply command entire setup is launched, i give true value output is welcome show during apply command run.
+
 
          # terraform init
          # terraform apply
