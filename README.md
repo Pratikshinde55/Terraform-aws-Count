@@ -31,7 +31,20 @@ provider file for plugin and put credentials info .(aws provider plugin)
 
 ⚡Step-1:⚡
 
-Here main.tf file for all code related to Resource block
+Here main.tf file for all code related to aws_instance Resource block.
+
+Data Source for AMI: It fetches the latest Amazon Linux 2 AMI with a specific naming convention (al2023-ami-*-x86_64) and other filters.
+
+EC2 Instance Resource: It defines an EC2 instance resource, using the AMI fetched in the previous step. It specifies the instance type, security group ID,
+and creates multiple instances using the count meta-argument.
+
+Variables:
+
+names: A list of names for instances.
+instanceType: A list of instance types.
+sec-grpID: Security Group ID.
+
+
 
 
          # notepad main.tf 
