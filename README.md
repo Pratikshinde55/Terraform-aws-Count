@@ -77,7 +77,7 @@ here all three instances is launched with given instance type as well as instanc
 
 For each instance bellow security group created by terraform:
 
-I give security group id in "vpc_security_group_ids" argument , the security group is created on aws console and only security_group id i give in terraform
+I give security group id in "vpc_security_group_ids" argument , the security group is created on aws console manually and only security_group id i give in terraform
 main block.
 
 
