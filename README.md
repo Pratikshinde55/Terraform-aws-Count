@@ -6,6 +6,10 @@ Create multiple EC2 instance and give dynamically name &amp; instance type using
 Count is Terraform meta-argument is used in resource block to specify that resource how many times run.count is a meta-argument defined by the Terraform language. It can be used with modules and with every 
  resource type.
 
+ Count.index:
+ 
+ It's special variable which define length of list of count. such as os[0] , os[1], os[2]......
+
 
 
       # terraform.exe plan -out=mypsfile
