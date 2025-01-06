@@ -9,11 +9,11 @@ language. It can be used with modules and with every resource type.
 
 - Meta-argument:
 
-The terraform argument which is used in any resources are known as 'Meta-argument'.
+         The terraform argument which is used in any resources are known as 'Meta-argument'.
 
 - Count.index:
  
-It's special variable which define length of list of count. such as os[0] , os[1], os[2]......
+         It's special variable which define length of list of count. such as os[0] , os[1], os[2]......
 
 
 In this work i have created below files for my code , mypsfile is created by "-out" keyword which store all setup code in binary format.  
