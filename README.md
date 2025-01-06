@@ -68,11 +68,11 @@ date and time show .
 
 ## Now check on AWS Console:---
 
-here all three instances is launched with given instance type as well as instance name .
+- here all three instances is launched with given instance type as well as instance name .
 
 ![Screenshot 2024-03-30 181743](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/4e9a0893-8e40-4fec-8921-1f7d149126ed)
 
-For each instance bellow security group created by terraform:
+- For each instance bellow security group created by terraform:
 
 I give security group id in "vpc_security_group_ids" argument , the security group is created on aws console manually and only security_group id i give in terraform
 main block.
