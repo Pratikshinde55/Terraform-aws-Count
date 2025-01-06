@@ -74,8 +74,8 @@ date and time show .
 
 - For each instance bellow security group created by terraform:
 
-I give security group id in "vpc_security_group_ids" argument , the security group is created on aws console manually and only security_group id i give in terraform
-main block.
+- I give security group id in "vpc_security_group_ids" argument , the security group is created on aws console manually and only security_group id i give in terraform
+  main block.
 
 ![Screenshot 2024-03-30 181902](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/5d9d8328-658c-425c-9c74-3e83f7f5d195)
 
