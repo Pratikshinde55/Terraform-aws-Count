@@ -19,7 +19,7 @@ In this work i have created below files for my code , mypsfile is created by "-o
 ## Step-1:
 provider file for plugin and put credentials info .(aws provider plugin)
 
-     notepad provider.tf 
+      notepad provider.tf 
 
 ![provider- tf](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/9111dd17-6f1b-44d5-8369-91a6735d75ef)
 
