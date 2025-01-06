@@ -38,7 +38,7 @@ again later.
 
 Locals: It defines some local values, such as admin name, owner, salary, and current time.
    
-   notepad main.tf 
+      notepad main.tf 
 
 ![main tf](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/6299137c-9f52-4559-9d75-8359dbd13481)
 
@@ -57,8 +57,8 @@ timestamp(): It's terraform function which run in real time and give real time.
 Now, 1st use terraform init & then terraform apply command entire setup is launched, i give true value output is welcome show during apply command run. & current
 date and time show .
      
-     terraform init
-     terraform apply
+      terraform init
+      terraform apply
 
 ![terra-apply](https://github.com/Pratikshinde55/Terraform-aws-Count_dynamically/assets/145910708/caa4ea39-d93b-4b7c-a8f4-fed66c6bde34)
 
